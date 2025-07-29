@@ -35,32 +35,32 @@ A clean and modular web application built with Flask that retrieves and displays
 
 ## Setup Instructions
 
-1. Clone the repository  
-   ```bash
+1. Clone the repository
+   '''bash  
    git clone https://github.com/yourusername/weather_flask_app.git
    cd weather_flask_app
 
-2. (Optional)
+3. (Optional)
     Create a virtual environment
     python -m venv venv
-    source venv/bin/activate       # macOS/Linux
-    venv\Scripts\activate          # Windows
+    source venv/bin/activate: macOS/Linux
+    venv\Scripts\activate:Windows
     
-3. Install dependencies
+4. Install dependencies
     python -m venv venv
-    source venv/bin/activate       # macOS/Linux
-    venv\Scripts\activate          # Windows
+    source venv/bin/activate:  macOS/Linux
+    venv\Scripts\activate: Windows
 
-4. Add your .env file with API key
+5. Add your .env file with API key
    API_KEY=your_openweathermap_api_key
 
-5. - Run the app
+6. - Run the app
      server.py
 
-6. navigate to
+7. navigate to
    Navigate to http://localhost:8000 in your browser.
 
-🙋‍♂️ Author
+## Author
 Developed by Andrew, senior Biology & Geology student at University of Houston–Clear Lake
 
 
