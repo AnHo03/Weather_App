@@ -57,7 +57,7 @@ A clean and modular web application built with Flask that retrieves and displays
 6. - Run the app
      server.py
 
-7. navigate to
+7. 
    Navigate to http://localhost:8000 in your browser.
 
 ## Author
